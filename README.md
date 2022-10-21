@@ -53,8 +53,8 @@ Two new machine learning models will be compared (BalancedRandomForestClassifer 
   ![SMOTEENN_Class]()!
   
 -BalancedRandomForestClassifer
-  - Accruacy score
-  - Confusion matrix
+  - Accruacy score = 0.79
+  - Confusion matrix [71,30],[2153,14951]
   
   ![Bal_Confusion]()!
   
@@ -64,8 +64,8 @@ Two new machine learning models will be compared (BalancedRandomForestClassifer 
   
   - Features
 -EasyEmsembleClassifier
-  - Accruacy score
-  - Confusion matrix
+  - Accruacy score = 0.93
+  - Confusion matrix [93,8],[983,16121]
   
   ![Easy_Confusion]()!
   
