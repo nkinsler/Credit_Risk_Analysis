@@ -46,7 +46,7 @@ Two new machine learning models will be compared (BalancedRandomForestClassifer 
  - Accruacy score = 0.55
  - Confusion matrix [73,28],[7412,9692]
   
- ![SMOTEENN_Confusion](https://github.com/nkinsler/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Confusion.png)!
+ ![SMOTEENN_Confusion](https://github.com/nkinsler/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20Confusion.png)!
   
  - Imbalanced classification report
   
